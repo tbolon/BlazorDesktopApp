@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32113.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDesktopApp.Web", "src\BlazorDesktopApp.Web\BlazorDesktopApp.Web.csproj", "{131CF78B-C31E-477B-8C17-407A1512DB57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDesktopApp.App", "src\BlazorDesktopApp.App\BlazorDesktopApp.App.csproj", "{81BD5870-0CD8-4721-AECE-5608A849A288}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDesktopApp.Forms", "src\BlazorDesktopApp.Forms\BlazorDesktopApp.Forms.csproj", "{38C6698B-8220-4F35-B753-C235DC19BB8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{838287E5-D462-4680-B74D-D9A2F836E7A3}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131CF78B-C31E-477B-8C17-407A1512DB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131CF78B-C31E-477B-8C17-407A1512DB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131CF78B-C31E-477B-8C17-407A1512DB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131CF78B-C31E-477B-8C17-407A1512DB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BD5870-0CD8-4721-AECE-5608A849A288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BD5870-0CD8-4721-AECE-5608A849A288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BD5870-0CD8-4721-AECE-5608A849A288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BD5870-0CD8-4721-AECE-5608A849A288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C6698B-8220-4F35-B753-C235DC19BB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C6698B-8220-4F35-B753-C235DC19BB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C6698B-8220-4F35-B753-C235DC19BB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C6698B-8220-4F35-B753-C235DC19BB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C12A697B-8677-4118-8DAB-3B85038EE0B7}
+	EndGlobalSection
+EndGlobal
